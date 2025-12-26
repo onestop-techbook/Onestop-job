@@ -27,6 +27,7 @@ const def = {
     // 第一部 とにかく楽をする
     "part-easy.md",
 	"chap-introduction.md",
+	"chap-template.md",
 
 
     // 第二部 Vivliostyleについて
