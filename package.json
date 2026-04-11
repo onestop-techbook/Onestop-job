@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@vivliostyle/cli": "^8.17.1",
-    "@vivliostyle/vfm": "^2.5.0"
+    "@vivliostyle/vfm": "^2.6.0"
   },
   "engines": {
     "node": ">=20.0.0"

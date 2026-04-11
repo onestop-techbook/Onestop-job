@@ -28,6 +28,7 @@ const def = {
     "part-easy.md",
 	"chap-introduction.md",
 	"chap-template.md",
+  "chap-yaumi.md",
 
 
     // 第二部 Vivliostyleについて
