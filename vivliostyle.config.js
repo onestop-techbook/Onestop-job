@@ -26,14 +26,15 @@ const def = {
 
     // 第一部 とにかく楽をする
     "part-easy.md",
-	"chap-introduction.md",
-	"chap-template.md",
+    "chap-introduction.md",
+    "chap-template.md",
   	"chap-yaumi.md",
   	"chap-admission.md",
   	"chap-jobchange.md",
   	"chap-selectcompany.md",
   	"chap-timeismoney.md",
-	"chap-oyakata.md",
+	  "chap-oyakata.md",
+    "chap-FORTE.md",
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
