@@ -35,6 +35,7 @@ const def = {
   	"chap-timeismoney.md",
 	  "chap-oyakata.md",
     "chap-FORTE.md",
+    "chap-kouno-job.md",
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
