@@ -38,6 +38,7 @@ const def = {
     "chap-yankee.md",
     "chap-yuzneri.md",
     "chap-shimitaka.md",
+    "chap-mae616.md",
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
