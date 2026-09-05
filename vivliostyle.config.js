@@ -38,7 +38,7 @@ const def = {
     "chap-yankee.md",
     "chap-yuzneri.md",
 	"chap-intern.md",
-	"chap-jobchangepoint.md",
+	"chap-jobchangepoints.md",
     "chap-shimitaka.md",
     "chap-mae616.md",
 
