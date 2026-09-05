@@ -42,8 +42,9 @@ jobs:
 
       # PDFのアップロード
       - name: Upload PDF artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: Artifacts
           path: ./*.pdf
+          archive: false
           retention-days: 3
