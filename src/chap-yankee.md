@@ -5,7 +5,6 @@ class: chapter
 # 身近だけれど、あまり知られていない組込みエンジニアの仕事
 
 <div class="flush-right">
-<!-- おやかた@oyakata2438　（必ず、執筆者名を入れてください。) -->
 yankee@yankee-08
 </div>
 
