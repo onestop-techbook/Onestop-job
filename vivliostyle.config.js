@@ -41,6 +41,8 @@ const def = {
 	"chap-jobchangepoints.md",
     "chap-shimitaka.md",
     "chap-mae616.md",
+	"chap-tokage.md",
+	"chap-hensachi.md",
 
 
     // 第二部 Vivliostyleについて
