@@ -37,12 +37,13 @@ const def = {
     "chap-fumiyasac.md",
     "chap-yankee.md",
     "chap-yuzneri.md",
-	"chap-intern.md",
-	"chap-jobchangepoints.md",
+	  "chap-intern.md",
+	  "chap-jobchangepoints.md",
     "chap-shimitaka.md",
     "chap-mae616.md",
-	"chap-tokage.md",
-	"chap-hensachi.md",
+	  "chap-tokage.md",
+  	"chap-hensachi.md",
+    "chap-nlab.md",
 
 
     // 第二部 Vivliostyleについて
