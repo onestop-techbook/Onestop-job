@@ -44,7 +44,7 @@ const def = {
 	  "chap-tokage.md",
   	"chap-hensachi.md",
     "chap-nlab.md",
-
+    "chap-ditflame-SIer.md",
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
