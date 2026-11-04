@@ -32,6 +32,7 @@ const def = {
     "chap-timeismoney.md",
     "chap-oyakata.md",
     "chap-FORTE.md",
+    "chap-FORTE_gen_ai_job.md",
     "chap-kouno-job.md",
     "chap-yumechi-1.md",
     "chap-fumiyasac.md",
