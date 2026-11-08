@@ -239,9 +239,19 @@ class: chapter
 願わくば人生があなたにとって納得のいくものでありますように。
 
 #### 本章の執筆者
-トカゲ　X＠Hiro_Sauria
 
-サークル名：冬眠ほたる
+<div class="author-profile">
+    <img src="images/Hiro_Sauria.jpg">
+    <div>
+        <div>
+            <b>トカゲ </b>
+            <a href="https://twitter.com/Hiro_Sauria">X＠Hiro_Sauria</a>
+        </div>
+        <div>
+            サークル名：冬眠ほたる
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
 
 この記事の執筆は秋が深まった時期に行っていたので、秋の夜長を楽しめました。
-S
