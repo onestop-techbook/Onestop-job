@@ -127,3 +127,4 @@ FORTE@FORTEgp05
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 ソフトウェア開発者ですが、いろいろやってます。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。
+</p>
