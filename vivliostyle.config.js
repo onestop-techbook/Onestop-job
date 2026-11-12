@@ -51,33 +51,6 @@ const def = {
     "chap-FORTE_gen_ai_job.md",
 
 
-    // "chap-introduction.md",
-    // "chap-template.md",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    // 第二部 Vivliostyleについて
-
-    "chap-placeholder.md",
-
     // 後書き
     "90-postscript.md",
     "98-authors.md",
