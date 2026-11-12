@@ -10,7 +10,7 @@ class: colophon
     <div class="colophon-title">ワンストップ職</div>
     <table>
         <tr>
-            <td colspan="3">202⑥年5月1日 初版発行 第13回 技術書同人誌博覧会</td>
+            <td colspan="3">2026年11月23日 初版発行 技術書典21</td>
         </tr>
         <tr>
             <td>　</td>

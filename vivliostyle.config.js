@@ -23,33 +23,59 @@ const def = {
 
     // 第一部 とにかく楽をする
     "part-easy.md",
+    "chap-FORTE.md",
+	"chap-jobchangepoints.md",
+    "chap-nlab.md",
+    "chap-yaumi.md",
+	"chap-range.md",		
+    "chap-yankee.md",
+	"chap-tokage.md",	
+	
+    "part-select.md",	
+    "chap-selectcompany.md",
+    "chap-admission.md",
+	"chap-intern.md",	
+    "chap-ditflame-SIer.md",
+  	"chap-hensachi.md",	
+    "chap-jobchange.md",
+    "chap-timeismoney.md",
+
+	"part-makecareer.md",
+    "chap-yumechi-1.md",	
+    "chap-yuzneri.md",
+    "chap-fumiyasac.md",
+    "chap-shimitaka.md",
+    "chap-mae616.md",	
+    "chap-oyakata.md",
+	"chap-kouno-job.md",
+    "chap-FORTE_gen_ai_job.md",
+
+
     // "chap-introduction.md",
     // "chap-template.md",
-    "chap-yaumi.md",
-    "chap-admission.md",
-    "chap-jobchange.md",
-    "chap-selectcompany.md",
-    "chap-timeismoney.md",
-    "chap-oyakata.md",
-    "chap-FORTE.md",
-    "chap-FORTE_gen_ai_job.md",
-    "chap-kouno-job.md",
-    "chap-yumechi-1.md",
-    "chap-fumiyasac.md",
-    "chap-yankee.md",
-    "chap-yuzneri.md",
-	  "chap-intern.md",
-	  "chap-jobchangepoints.md",
-    "chap-shimitaka.md",
-    "chap-mae616.md",
-	  "chap-tokage.md",
-  	"chap-hensachi.md",
-    "chap-nlab.md",
-    "chap-ditflame-SIer.md",
-	"chap-range.md",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     // 第二部 Vivliostyleについて
-    "part-tips.md",
+
     "chap-placeholder.md",
 
     // 後書き
