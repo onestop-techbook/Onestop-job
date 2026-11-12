@@ -134,3 +134,4 @@ IT業界でいう「XY問題（本当に解決したい課題Xのために、間
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 なんでもやる系のITエンジニア。Java、Ruby、TypeScriptからAWS、Google Cloudなどのインフラ、ピープルマネジメントやプロジェクトマネジメントなど、すべてを「よしなに」やっていきます。
+</p>
